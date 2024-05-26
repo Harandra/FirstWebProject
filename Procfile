@@ -1,1 +1,1 @@
-web: gunicorn PetEcommerce.wsgi
+web: gunicorn PetEcommerce.wsgi --log-file -

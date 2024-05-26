@@ -1,0 +1,16 @@
+asgiref==3.8.1
+Django==4.2.13
+django-ckeditor-5==0.2.13
+django-crispy-forms==2.1
+django-debug-toolbar==4.4.1
+django-environ==0.11.2
+django-social-share==2.3.0
+django-static-fontawesome==6.5.2.0
+django-taggit==5.0.1
+gunicorn==22.0.0
+packaging==24.0
+pillow==10.3.0
+psycopg2-binary==2.9.9
+sqlparse==0.5.0
+typing_extensions==4.12.0
+tzdata==2024.1
